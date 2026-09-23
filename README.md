@@ -12,13 +12,3 @@ A Machine Learning project demonstrating end-to-end regression modeling to predi
 * **Language:** Python
 * **Libraries:** Scikit-Learn, Pandas, NumPy, Joblib
 
-## 🚀 Usage
-1. Clone repository:
-   ```bash
-   git clone https://github.com/MoBa-create/Car-Price-Prediction-ML.git
-
-2 . Install dependencies:
-	pip install -r requirements.txt
-
-3 . Run the regression model script:
-	python car_price_prediction.py
